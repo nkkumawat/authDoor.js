@@ -1,5 +1,5 @@
 {
-  "name": "authDoor",
+  "name": "auth-door",
   "version": "0.0.1",
   "description": "Authentication App",
   "main": "index.js",
