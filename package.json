@@ -1,6 +1,6 @@
 {
   "name": "auth-door",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Authentication App",
   "main": "index.js",
   "scripts": {
